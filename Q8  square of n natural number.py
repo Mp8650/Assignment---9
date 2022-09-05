@@ -1,0 +1,7 @@
+'''To print square of first n natural 
+numbers'''
+n=int(input("Enter a number to print square of n natural number"))
+i=1
+while i<=n:
+    print (i**2)
+    i+=1
